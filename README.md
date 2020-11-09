@@ -11,4 +11,4 @@
 
 ## 在线demo
 
-[https://ink.daidr.me](https://ink.daidr.me "demo")
+[https://qikaile.tk/douBoard/](https://qikaile.tk/douBoard/ "demo")
